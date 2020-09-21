@@ -8,4 +8,5 @@ void main ( void )
 	printf("My name is PM\n");
 
 	printf("My name is BJ\n");
+	printf("My name is EG\n");
 }
