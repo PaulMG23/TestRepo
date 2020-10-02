@@ -32,3 +32,5 @@ void GENFUN_vCapsOn (uint8 *pu8Src, uint8 u8SizeOfList)
 		u8SizeOfList--;
 	}
 }
+
+void GENFUNC_vCapsOff ( void );
